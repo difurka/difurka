@@ -37,15 +37,15 @@ I study in 21 school.
 ---
 
 <p align="center">
-   <a href="https://vk.com/asav1n">
+   <a href="https://vk.com/id1672431">
     <img align="center" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" width="50px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/sav1n_type" target="_blank" style='margin-right:10px'>
+  <a href="https://t.me/difurka" target="_blank" style='margin-right:10px'>
     <img align="center" style="margin-right:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="50px" />
   </a>
   &nbsp;&nbsp;
-    <a href="mailto:va.sav1n1a2b3c@gmail.com" target="_blank" >
+    <a href="mailto:balakinakate2022@gmail.com" target="_blank" >
     <img align="center" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" width="50px" />
   </a>
   &nbsp;&nbsp;

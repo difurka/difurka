@@ -2,7 +2,7 @@
 
 ### Now I'm backend C/C++ developer
 
-I study in 21 school.
+I study in 21 school of Sber.
 
 ### Skills and Tools
 

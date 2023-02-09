@@ -25,8 +25,6 @@ I study in 21 school of Sber.
 <br />
 <br />
 <br />
-<br />
-<br />  
 
 ### Stats  
 

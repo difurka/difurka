@@ -20,6 +20,10 @@ I study in 21 school of Sber.
 
 <img align="left" alt="Linux" width="72px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" />
 
+<img align="left" alt="Docker" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+
+
+[](https://komarev.com/ghpvc/?username=your-github-difurka)
 <br />
 <br />
 <br />

@@ -22,9 +22,12 @@ I study in 21 school of Sber.
 
 <img align="left" alt="Docker" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
+
 <br />
 <br />
 <br />
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=difurka)](https://github.com/difurka/github-readme)
 
 ### Stats  
 

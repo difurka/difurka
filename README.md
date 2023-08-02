@@ -2,6 +2,7 @@
 
 ### Now I'm backend C/C++ developer
 
+
 I study in 21 school of Sber.
 
 ### Skills and Tools
@@ -26,7 +27,10 @@ I study in 21 school of Sber.
 <br />
 <br />
 <br />
+<br />
 
+---
+### Solved problems on LeetCode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=difurka)](https://github.com/difurka/github-readme)
 
 ### Stats  

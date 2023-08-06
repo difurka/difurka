@@ -11,6 +11,8 @@ I study in 21 school of Sber.
 
 <img align="left" alt="C" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png" />
 
+<img align="left" alt="C" width="150px" style="margin-right:15px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" />
+
 <img align="left" alt="C++" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 
 <img align="left" alt="C" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />

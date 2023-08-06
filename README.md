@@ -41,7 +41,7 @@ Admired by the possibilities of Machine Learning, in particular Deep Learning an
 ### Stats  
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=difurka)](https://github.com/anuraghazra/github-readme-stats)
+[comment]: <[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=difurka)](https://github.com/anuraghazra/github-readme-stats)>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=difurka)](https://github.com/anuraghazra/github-readme-stats)
 

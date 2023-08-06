@@ -3,7 +3,10 @@
 ### Now I'm backend C/C++ developer
 
 
-I study in 21 school of Sber.
+I know mathematics. 
+
+Admired by the possibilities of Machine Learning, in particular Deep Learning and Computer Vision.
+
 
 ### Skills and Tools
 

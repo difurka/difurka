@@ -12,15 +12,25 @@ Admired by the possibilities of Machine Learning, in particular Deep Learning an
 
 ---
 
-<img align="left" alt="C" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png" />
-
-<img align="left" alt="C" width="150px" style="margin-right:15px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" />
-
 <img align="left" alt="C++" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 
 <img align="left" alt="C" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 
 <img align="left" alt="Qt" width="72px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" />
+
+<br />
+<br />
+<br />
+<br />
+
+<img align="left" alt="C" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png" />
+
+<img align="left" alt="C" width="150px" style="margin-right:15px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" />
+
+<br />
+<br />
+<br />
+<br />
 
 <img align="left" alt="Bash" width="72px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" />
 

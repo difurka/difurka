@@ -3,7 +3,7 @@
 ### Now I'm backend C/C++ developer
 
 
-I know mathematics. 
+I know and like mathematics. 
 
 Admired by the possibilities of Machine Learning, in particular Deep Learning and Computer Vision.
 

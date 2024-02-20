@@ -63,7 +63,7 @@ Admired by the possibilities of Machine Learning, in particular Deep Learning an
 
 <p align="center">
    <a href="https://www.linkedin.com/in/katyabalakina/" target="_blank" >
-    <img align="center" style="margin-right:15px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/linkedin/linkedin.svg" width="50px" />
+    <img align="center" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" width="50px" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/difurka" target="_blank" style='margin-right:10px'>
